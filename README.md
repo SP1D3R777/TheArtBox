@@ -1,3 +1,5 @@
+<img src="https://image.noelshack.com/fichiers/2023/52/4/1703782731-capture-d-ecran-2023-12-28-175839.jpg"/>
+
 # Projet PHP Œuvre d'Art
 
 Ce projet est une application web PHP qui présente une collection d'œuvres d'art. Les visiteurs peuvent parcourir la liste des œuvres et afficher les détails de chaque œuvre individuellement.
